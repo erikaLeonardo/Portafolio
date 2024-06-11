@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind componets;
+@tailwind utilities;
+
+.active{
+    color: rgb(111, 111, 246);
+}
